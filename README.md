@@ -1,1 +1,1 @@
-https://github.com/RaehanKhan/mobileuidesign.github.io
+https://raehankhan.github.io/mobileuidesign.github.io/
